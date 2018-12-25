@@ -1,6 +1,8 @@
 {
   "name": "geotag",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "a9f5fb0e"
 }
